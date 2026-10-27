@@ -14,7 +14,7 @@
     "dev:api": "npm run dev -w api",
     "dev:web": "npm run dev -w web",
     "test": "npm run test -w api",
-    "stress": "npm run stress -w api",
+    "stress": "npm run stress -w api --",
     "build": "npm run build -w api && npm run build -w web"
   },
   "engines": {
