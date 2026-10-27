@@ -1,5 +1,7 @@
 # 🔨 bidlock
 
+[![CI](https://github.com/MOlexiy/bidlock/actions/workflows/ci.yml/badge.svg)](https://github.com/MOlexiy/bidlock/actions/workflows/ci.yml)
+
 Real-time auction with **concurrency-safe bidding and balance freezing**.
 Node.js (NestJS) · PostgreSQL · Redis · BullMQ · WebSockets (socket.io) · React 18 + Vite + TypeScript · Telegram MiniApp auth.
 
